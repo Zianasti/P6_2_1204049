@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2015\Projects\P6_2_1204049\P6_2_1204049\bin\Debug\P6_2_1204049.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\P6_2_1204049\P6_2_1204049\bin\Debug\P6_2_1204049.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\P6_2_1204049\P6_2_1204049\bin\Debug\P6_2_1204049.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\P6_2_1204049\P6_2_1204049\obj\Debug\P6_2_1204049.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\P6_2_1204049\P6_2_1204049\obj\Debug\P6_2_1204049.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\P6_2_1204049\P6_2_1204049\obj\Debug\P6_2_1204049.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\P6_2_1204049\P6_2_1204049\obj\Debug\P6_2_1204049.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\P6_2_1204049\P6_2_1204049\obj\Debug\P6_2_1204049.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\P6_2_1204049\P6_2_1204049\obj\Debug\P6_2_1204049.pdb
